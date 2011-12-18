@@ -1,0 +1,2 @@
+.babar-error{font-family:monospace;padding:1em;margin:.5em;border:.5em solid red;color:black;background:white;}
+.babar-error:before{font-weight:bold;content:"babar.js error: ";}
