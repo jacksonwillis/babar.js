@@ -5,6 +5,9 @@
 babar.js is a javascript library for loading static webpages with a consistent layout.
 Learn more at the [wiki](https://github.com/jacksonwillis/babar.js/wiki).
 
+## Version
+0.1
+
 ## License
 babar.js is released under the MIT License. See [LICENSE](LICENSE) for the full text.
 
