@@ -1,3 +1,3 @@
 babar.js({
-  title: "hello, world!"
+ title: "babar.js example" 
 });
