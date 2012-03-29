@@ -11,7 +11,7 @@ babar = $b = {
 
     // class attribute prefixes
     partial_prefix: 'babar-partial-',
-    page_prefix: 'babar-page-',
+    page_prefix: 'babar-page-'
   },
   hash: {
     change: function () {
@@ -28,7 +28,7 @@ babar = $b = {
     watch: function () {
       $b.hash.change();
       $(window).hashchange($b.hash.change);
-    },
+    }
   },
   js: function (options) {
     $b.options = options;
